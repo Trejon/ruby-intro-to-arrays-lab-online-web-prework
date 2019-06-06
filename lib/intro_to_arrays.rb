@@ -6,4 +6,5 @@ def array_with_two_elements
   ["night", "day"]
 end 
 
-def first_element_array
+def first_element(array)
+  array[0]
